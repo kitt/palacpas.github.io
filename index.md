@@ -13,7 +13,7 @@ Discussion groups are led by PALAC members and hosted in local homes. Most have 
 
 The updated schedule for Spring and Summer 2018 is now available.
 
-<img src="{{ site.url }}/images/weapons-of-math-destruction" style="float: right" />This Spring season's discussion groups include _Dark Money_, _Othello_, Grant, _Moby-Dick_, _A Call to Action_ by Jimmy Carter, _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_, _Three Floors Up_, and Armchair Traveler: Sicily.
+<img src="{{ site.url }}/images/weapons-of-math-destruction.jpg" style="float: right" />This Spring season's discussion groups include _Dark Money_, _Othello_, Grant, _Moby-Dick_, _A Call to Action_ by Jimmy Carter, _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_, _Three Floors Up_, and Armchair Traveler: Sicily.
 
 Our Summer season includes _As I Lay Dying_ by William Faulkner, _Sons of Wichita: How the Koch Brothers Became America's Most Powerful and Private Dynasty_ by Daniel Shulman, _The Handmaid's Tale_, _Scalia Speaks_, _Everybody Lies: Big Data, New Data and What the Internet Can Tell Us About Who We Really Are_ by Seth Stephens-Davidowitz, _Song of Myself_ by Walt Whitman, along with _Suspended Sentences, Complete Stories_ by Flannery O'Connor, and Engaging Africa through Literature.
 
