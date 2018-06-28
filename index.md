@@ -21,11 +21,11 @@ Our safaris these spring and summer seasons are exciting, too!  We have the Sam 
 
 Full details are found in our Spring / Summer brochure, which can be downloaded by clicking the link below:
 
-### [Spring Summer 2018 Program Brochure](/files/PALAC-Program-Brochure-Spring-Summer-2018.66140634.pdf)
+### [Spring Summer 2018 Program Brochure]({{ site.url }}/files/PALAC-Program-Brochure-Spring-Summer-2018.66140634.pdf)
 
 Most groups are limited to 13 participants. Early registration will help assure you a place.  To accomodate mail delivery times, the PALAC office will hold all checks for seven days after our outlying members receive their brochures in the mail before signing anyone up. If a group is over-subscribed, we will have a random draw, with any remaining subscriptions being placed on a waitlist.
 
-### [2018 Registration and Membership Form](/files/PALAC-Registration-Spring-Summer-2018.66140700.pdf)
+### [2018 Registration and Membership Form]({{ site.url }}/files/PALAC-Registration-Spring-Summer-2018.66140700.pdf)
 
 You will be notified by mail or phone about your status when your application is received and you will get the details of the group by mail about a week prior to the start.
 
